@@ -7,5 +7,6 @@ All assets are in the `Samples` folder which is divided into foreground object a
 
 ## Custom Scripts
 In the `Scripts` folder there are all kinds of `C#` scripts that are used to customize all the [randomizations that Unity Perception has](https://github.com/Unity-Technologies/com.unity.perception/blob/main/com.unity.perception/Documentation%7E/Tutorial/Phase1.md#step-5).
-<hr>
-For the overall settings of the synthesis image generation project, you can download the file named `UnityPerceptionProjectSettings.zip`.
+<br>
+For the overall settings of the synthesis image generation project, you can download the file named
+`UnityPerceptionProjectSettings.zip`.
